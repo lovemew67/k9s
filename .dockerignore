@@ -1,0 +1,10 @@
+/execs
+/skins
+
+.github
+.semaphore
+.vscode
+
+.travis.yml
+
+cov.out
