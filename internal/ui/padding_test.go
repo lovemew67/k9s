@@ -103,8 +103,8 @@ func TestPad(t *testing.T) {
 		l int
 		e string
 	}{
-		{"fred", 3, "fr…"},
-		{"01234567890", 10, "012345678…"},
+		{"fred", 3, "f…"},
+		{"01234567890", 10, "01234567…"},
 		{"fred", 10, "fred      "},
 		{"fred", 6, "fred  "},
 		{"fred", 4, "fred"},

@@ -50,7 +50,7 @@ func TestTruncate(t *testing.T) {
 		"larger": {
 			data: "fred",
 			size: 3,
-			e:    "fr…",
+			e:    "f…",
 		},
 	}
 
